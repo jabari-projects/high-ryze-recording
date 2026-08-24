@@ -32,3 +32,13 @@ Video Processing: FFmpeg
 Storage: Local + optional cloud sync
 
 Smart tooling: Used to speed up development, not replace it
+
+## Repository Structure
+
+- `app/` — Future UI, reusable components, video-facing tools, and AI helper interfaces.
+- `backend/` — Future processing, highlight detection, export, and API responsibilities.
+- `docs/` — Living project planning and setup documentation.
+
+## Project Status
+
+This repository is currently a planning scaffold. No application code has been added; the implementation choices remain intentionally flexible while the project direction is refined.
